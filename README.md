@@ -21,3 +21,5 @@
 [Alarm 🕰️](https://siddharthrgade21-a11y.github.io/Alarm/)
 
 [Habit Tracker 🎯](https://siddharthrgade21-a11y.github.io/Habit-Tracker/)
+
+[TypeMaster Pro](https://siddharthrgade21-a11y.github.io/TypeMaster-Pro/)
