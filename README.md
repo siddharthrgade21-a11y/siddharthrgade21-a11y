@@ -11,7 +11,3 @@
 ![](https://streak-stats.demolab.com/?user=siddharthrgade21-a11y&theme=transparent&hide_border=true&hide_total_contributions=true)
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=siddharthrgade21-a11y&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
----
