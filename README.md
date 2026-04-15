@@ -11,5 +11,5 @@
 ![](https://streak-stats.demolab.com/?user=siddharthrgade21-a11y&theme=transparent&hide_border=true&hide_total_contributions=true)
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=siddharthrgade21-a11y&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-<img width="676" height="352" alt="image" src="https://github.com/user-attachments/assets/68f73857-bbc2-4e28-bee2-0857ce42ad30" />
+
 
