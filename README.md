@@ -21,7 +21,7 @@
   <a href="https://github.com/siddharthrgade21-a11y">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=siddharthrgade21-a11y&cache_seconds=7200&layout=compact&theme=dark&border_radius=10" alt="siddharthrgade21-a11y's GitHub Stats" />
   </a>
-  <img src="https://streak-stats.demolab.com/?user=siddharthrgade21-a11y&theme=dark&hide_border=true&cache_seconds=86400" alt="siddharthrgade21-a11y's GitHub Streak" width="49%" />
+ <img src="https://streak-stats.demolab.com/?user=siddharthrgade21-a11y&theme=dark&hide_border=true&hide_total_contributions=true&cache_seconds=86400" alt="siddharthrgade21-a11y's GitHub Streak" width="49%" />
 </p>
 <p align="center">
   <img src="https://trophy.ryglcloud.net/?username=siddharthrgade21-a11y&theme=dark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Siddharth Gade's GitHub Trophies" />
